@@ -1,1 +1,2 @@
-config: this is the config string in config-dev.yml
+config: 
+  info: this is the config string in config-dev.yml
